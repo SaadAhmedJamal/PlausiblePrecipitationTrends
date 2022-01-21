@@ -1,2 +1,2 @@
 # PlausiblePrecipitationTrends
-Jehlum and Chenab basin
+Plausibl ePrecipitation Trends for Jehlum and Chenab basin
